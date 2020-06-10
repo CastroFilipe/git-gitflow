@@ -4,7 +4,7 @@ branch develop - 08/06/2020 12:34 - commit 3 na branch develop
 branch feature-crud - 08/06/2020 16:11 - commit 4 tela para cadastro de alunos
 branch feature-crud - 08/06/2020 16:55 - commit 5 remoção alunos
 
-branch feature-cadastro-professor - 10/06/2020 15:40 - commit 6 cadastro de professores
+branch feature-cadastro-professor - 10/06/2020 15:40 - commit 6 cadastro de professores16:14 10/06/2020
 branch feature-cadastro-professor - 10/06/2020 15:51 - commit 7 exclusao de professores
 branch feature-cadastro-professor - 10/06/2020 15:52 - commit 8 listagem de professores
 
@@ -12,3 +12,5 @@ branch feature-turmas - 10/06/2020 16:02 - commit 9 cadastro de turmas
 
 branch feature-cadastro-livros - 10/06/2020 15:59 - commit 10 cadastro de livros
 branch feature-cadastro-livros - 10/06/2020 16:00 - commit 11 emprestimo de livros
+
+branch feature-diretor - 10/06/2020 16:14 - commit 12 cadastro de merenda escolar
