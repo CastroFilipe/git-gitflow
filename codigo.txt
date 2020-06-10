@@ -4,3 +4,5 @@ branch develop - 08/06/2020 12:34 - commit 3 na branch develop
 branch feature-crud - 08/06/2020 16:11 - commit 4 tela para cadastro de alunos
 branch feature-crud - 08/06/2020 16:55 - commit 5 remoção alunos
 
+branch feature-cadastro-professor - 10/06/2020 15:40 - commit 6 cadastro de professores
+
