@@ -15,3 +15,4 @@ branch feature-cadastro-livros - 10/06/2020 16:00 - commit 11 emprestimo de livr
 
 branch feature-diretor - 10/06/2020 16:14 - commit 12 cadastro de merenda escolar
 branch feature-diretor - 10/06/2020 16:13 - commit 12 cadastro de diretor
+branch feature-diretor - 10/06/2020 16:13 - commit 13 remoção de diretor
